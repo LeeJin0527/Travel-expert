@@ -1,7 +1,8 @@
 <img width="809" alt="캡처" src="https://user-images.githubusercontent.com/64263694/92392164-cf90a280-f158-11ea-9040-dd4ea67b0c0f.PNG">
 
 # Travel Expert
-#여행지 추천어플
+#여행지 추천어플 
+#여행 동행자 커뮤니티 
 
 1. 국내와 해외를 선택하세요.
 2. 원하는 항공권 가격대를 선택해주세요.
